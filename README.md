@@ -1,5 +1,5 @@
 # Comparison of Over-Sampling and Under-Sampling Techniques on Imbalanced Medical Datasets
-Code for COMP61011 Machine Learning pair assignment titled 'Comparison of Over-Sampling and Under-Sampling Techniques on Imbalanced Medical Datasets.'
+Code for Machine Learning pair assignment titled 'Comparison of Over-Sampling and Under-Sampling Techniques on Imbalanced Medical Datasets.'
 
 View paper [here](https://drive.google.com/open?id=1UBDJ6mhVYSkXrYPMjkB521GRcxv_9X7U).
 
